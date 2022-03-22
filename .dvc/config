@@ -1,0 +1,4 @@
+[core]
+    remote = newremote
+['remote "newremote"']
+    url = /tmp/dvc-storage-new
